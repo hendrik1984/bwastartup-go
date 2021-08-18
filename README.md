@@ -1,0 +1,2 @@
+# bwastartup-go
+latihan golang
